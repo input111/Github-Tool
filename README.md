@@ -2,7 +2,7 @@
 
 ## 简介
 
-GitHub 仓库管理工具是一款基于 Python 的桌面应用程序，旨在帮助用户更便捷地管理自己的 GitHub 仓库。通过图形化界面，您可以轻松进行仓库的创建、删除、重命名、文件上传等操作，无需记忆复杂的 Git 命令或依赖网页界面。感觉可以的话拜托点亮Starred叭
+GitHub 仓库管理工具是一款基于 Python 的桌面应用程序，旨在帮助用户更便捷地管理自己的 GitHub 仓库。通过图形化界面，您可以轻松进行仓库的创建、删除、重命名、文件上传等操作，无需记忆复杂的 Git 命令或依赖网页界面。感觉可以的话拜托点亮Star叭
 
 ## 功能概述
 
@@ -13,7 +13,7 @@ GitHub 仓库管理工具是一款基于 Python 的桌面应用程序，旨在�
 - 文件上传（单个文件或整个项目文件夹）
 - 仓库文件查看与删除
 
-## 准备工作
+## 准备工作（全程需要科学上网）
 软件引导：
 [![第一步](https://github.com/input111/Github-Tool/blob/main/%E5%9B%BE%E7%89%87%E8%AF%B4%E6%98%8E/1.png?raw=true "第一步")](https://github.com/input111/Github-Tool/blob/main/%E5%9B%BE%E7%89%87%E8%AF%B4%E6%98%8E/1.png?raw=true "第一步")
 [![](https://github.com/input111/Github-Tool/blob/main/%E5%9B%BE%E7%89%87%E8%AF%B4%E6%98%8E/2.png?raw=true)](https://github.com/input111/Github-Tool/blob/main/%E5%9B%BE%E7%89%87%E8%AF%B4%E6%98%8E/2.png?raw=true)
